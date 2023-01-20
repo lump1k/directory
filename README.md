@@ -1,5 +1,7 @@
 # Directory Helper
 
+composer require lump1k/directory
+
 ```php
 use \Lump1k\Directory\Helper as DirHelper;
 
