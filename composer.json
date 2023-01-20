@@ -1,6 +1,7 @@
 {
     "name": "lump1k/directory",
     "description": "Directory Helper",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Lump1k\\Directory\\": "src/"
