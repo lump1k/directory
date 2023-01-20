@@ -7,5 +7,7 @@
             "Lump1k\\Directory\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^8.1"
+    }
 }
