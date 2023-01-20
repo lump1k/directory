@@ -1,0 +1,10 @@
+{
+    "name": "lump1k/directory",
+    "description": "Directory Helper",
+    "autoload": {
+        "psr-4": {
+            "Lump1k\\Directory\\": "src/"
+        }
+    },
+    "require": {}
+}
