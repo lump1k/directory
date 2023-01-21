@@ -1,6 +1,10 @@
 # Directory Helper
 
+## How to install?
+
 composer require lump1k/directory
+
+## How to use?
 
 ```php
 use \Lump1k\Directory\Helper as DirHelper;
